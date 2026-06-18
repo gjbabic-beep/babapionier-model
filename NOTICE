@@ -1,0 +1,11 @@
+babapionier-model
+Copyright 2026 Georgije Babic
+
+This product redistributes, unmodified, the following Apache-2.0 licensed model:
+
+  Qwen2.5-3B-Instruct (4-bit, MLX)
+  Source: https://huggingface.co/mlx-community/Qwen2.5-3B-Instruct-4bit
+  Upstream model: Qwen2.5 by Qwen Team, Alibaba Cloud
+  Licensed under the Apache License, Version 2.0.
+
+See the LICENSE file for the full Apache-2.0 license text.
