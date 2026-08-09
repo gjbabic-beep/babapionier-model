@@ -1,6 +1,11 @@
 {
   "maintenance": false,
   "message": "Willkommen bei BABAPionier 3.3.3 — neue Vorlese-Stimmen und schnellerer Chat!",
+  "message_de": "Willkommen bei BABAPionier 3.3.3 — neue Vorlese-Stimmen und schnellerer Chat!",
+  "message_en": "Welcome to BABAPionier 3.3.3 — new read-aloud voices and a faster chat!",
+  "message_sr": "Dobro došli u BABAPionier 3.3.3 — novi glasovi za čitanje i brži razgovor!",
+  "message_it": "Benvenuti in BABAPionier 3.3.3 — nuove voci di lettura e una chat più veloce!",
+  "message_ru": "Добро пожаловать в BABAPionier 3.3.3 — новые голоса для чтения и более быстрый чат!",
   "reason": null,
   "eta": null,
   "disabled_features": []
