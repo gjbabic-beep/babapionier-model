@@ -1,11 +1,11 @@
 {
   "maintenance": false,
-  "message": "Willkommen bei BABAPionier 3.3.3 — neue Vorlese-Stimmen und schnellerer Chat!",
-  "message_de": "Willkommen bei BABAPionier 3.3.3 — neue Vorlese-Stimmen und schnellerer Chat!",
-  "message_en": "Welcome to BABAPionier 3.3.3 — new read-aloud voices and a faster chat!",
-  "message_sr": "Dobro došli u BABAPionier 3.3.3 — novi glasovi za čitanje i brži razgovor!",
-  "message_it": "Benvenuti in BABAPionier 3.3.3 — nuove voci di lettura e una chat più veloce!",
-  "message_ru": "Добро пожаловать в BABAPionier 3.3.3 — новые голоса для чтения и более быстрый чат!",
+  "message": "Weihnachtsaktion bis 31.12.2026: 75 % Rabatt auf alle Pässe und für Neu-Abonnenten auf den ersten Abo-Zeitraum.",
+  "message_de": "Weihnachtsaktion bis 31.12.2026: 75 % Rabatt auf alle Pässe und für Neu-Abonnenten auf den ersten Abo-Zeitraum.",
+  "message_en": "Holiday offer until 31 Dec 2026: 75% off all passes and, for new subscribers, the first subscription period.",
+  "message_sr": "Novogodišnja akcija do 31.12.2026: 75 % popusta na sve propusnice, a za nove pretplatnike na prvi period pretplate.",
+  "message_it": "Offerta di Natale fino al 31.12.2026: 75% di sconto su tutti i pass e, per i nuovi abbonati, sul primo periodo di abbonamento.",
+  "message_ru": "Новогодняя акция до 31.12.2026: скидка 75 % на все пропуски, а новым подписчикам — на первый период подписки.",
   "reason": null,
   "eta": null,
   "disabled_features": []
