@@ -1,11 +1,11 @@
 {
   "maintenance": false,
-  "message": "Neu in 3.3.4: Online-Recherche (einschaltbar) jetzt auch im Chat und in den Diensten, mit Quellenlinks. Weihnachtsaktion bis 31.12.2026: 75 % Rabatt auf alle Pässe und für Neu-Abonnenten auf den ersten Abo-Zeitraum.",
-  "message_de": "Neu in 3.3.4: Online-Recherche (einschaltbar) jetzt auch im Chat und in den Diensten, mit Quellenlinks. Weihnachtsaktion bis 31.12.2026: 75 % Rabatt auf alle Pässe und für Neu-Abonnenten auf den ersten Abo-Zeitraum.",
-  "message_en": "New in 3.3.4: optional online research with source links, now also in Chat and Services. Holiday offer until 31 Dec 2026: 75% off all passes and, for new subscribers, the first subscription period.",
-  "message_sr": "Novo u 3.3.4: onlajn pretraga (opciono) sada i u Razgovoru i Uslugama, sa linkovima ka izvorima. Novogodišnja akcija do 31.12.2026: 75 % popusta na sve propusnice, a za nove pretplatnike na prvi period pretplate.",
-  "message_it": "Novità della versione 3.3.4: ricerca online facoltativa, ora anche in Chat e Servizi, con link alle fonti. Offerta di Natale fino al 31.12.2026: 75% di sconto su tutti i pass e, per i nuovi abbonati, sul primo periodo di abbonamento.",
-  "message_ru": "Новое в 3.3.4: онлайн-поиск (по желанию) — также в Чате и Услугах, со ссылками на источники. Новогодняя акция до 31.12.2026: скидка 75 % на все пропуска, а новым подписчикам — на первый период подписки.",
+  "message": "Neu in 3.3.6: Vorlesen und Sprachassistent verbessert – der Bildschirm bleibt beim Vorlesen an, natürlichere Pausen, Vorlesen jetzt auch im Chat der Dienste. Weihnachtsaktion bis 31.12.2026: 75 % Rabatt auf alle Pässe und für Neu-Abonnenten auf den ersten Abo-Zeitraum.",
+  "message_de": "Neu in 3.3.6: Vorlesen und Sprachassistent verbessert – der Bildschirm bleibt beim Vorlesen an, natürlichere Pausen, Vorlesen jetzt auch im Chat der Dienste. Weihnachtsaktion bis 31.12.2026: 75 % Rabatt auf alle Pässe und für Neu-Abonnenten auf den ersten Abo-Zeitraum.",
+  "message_en": "New in 3.3.6: improved read-aloud and voice assistant – the screen stays on while reading, more natural pauses, and read-aloud now also in the Services chat. Holiday offer until 31 Dec 2026: 75% off all passes and, for new subscribers, the first subscription period.",
+  "message_sr": "Novo u 3.3.6: poboljšano čitanje naglas i glasovni asistent – ekran ostaje uključen tokom čitanja, prirodnije pauze, a čitanje naglas sada i u Razgovoru usluga. Novogodišnja akcija do 31.12.2026: 75 % popusta na sve propusnice, a za nove pretplatnike na prvi period pretplate.",
+  "message_it": "Novità della versione 3.3.6: lettura ad alta voce e assistente vocale migliorati – lo schermo resta acceso durante la lettura, pause più naturali e lettura ad alta voce ora anche nella chat dei Servizi. Offerta di Natale fino al 31.12.2026: 75% di sconto su tutti i pass e, per i nuovi abbonati, sul primo periodo di abbonamento.",
+  "message_ru": "Новое в 3.3.6: улучшены чтение вслух и голосовой ассистент — экран не гаснет во время чтения, паузы естественнее, чтение вслух теперь и в чате Услуг. Новогодняя акция до 31.12.2026: скидка 75 % на все пропуска, а новым подписчикам — на первый период подписки.",
   "reason": null,
   "eta": null,
   "disabled_features": []
